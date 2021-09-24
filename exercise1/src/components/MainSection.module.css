@@ -1,0 +1,15 @@
+.container{
+
+    background-color: white;
+    color: black;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 200px;
+    padding: 12px;
+    width: 685px;
+    height: 500px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    text-align: left;
+
+}
