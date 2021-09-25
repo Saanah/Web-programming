@@ -30,7 +30,7 @@ function App() {
       <h2 style = {header}>Luetuimmat</h2>
             <h3 style = {{}}>___________________________________</h3>
       <PopularNews topic = "Kirjeenvaihtajan kommentti" body = "Britanniassa jonotetaan nyt bensiiniä, eikä se ole yllätys -
-                Brexitin myötä pulasta on tullut osa arkea"/>
+                            Brexitin myötä pulasta on tullut osa arkea"/>
       <PopularNews topic = "Kuolleet" body = "Toimittaja Aarno Laitinen on kuollut"/>
       <PopularNews topic = "Historia" body = "Ensimmäiset luolamaalaukset saattoivat olla neandertalilaisten tekemiä"/>
       <PopularNews topic = "Kuluttaja" body = "Markkinoille ilmeistyivät kaiken kestävät sukkahousut - näin HS:n testeissä kävi"/>
