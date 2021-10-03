@@ -1,0 +1,26 @@
+.items{
+    
+    width: 210px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    
+}
+
+.photo {
+    height: 200px;
+    width: 210px;
+  }
+
+  .text{
+      font-size: 18px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .subtext{
+
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+  }

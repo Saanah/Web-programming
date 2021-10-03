@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Apple Pencil",
+        "rating": 5,
+        "price": 30.00,
+        "image": "applepencil.png"
+    },
+      {
+        "id": 2,
+        "name": "Seagate Portable 2TB External Hard Drive",
+        "rating": 4.5,
+        "price": 62.99,
+        "image": "harddrive.png"
+      },
+      {
+        "id": 3,
+            "name": "Roku Streaming Stick",
+            "rating": 4.5,
+            "price": 39.00,
+            "image": "streamingstick.png"
+      },
+      {
+        "id": 4,
+        "name": "TP-Link AC750 WiFi Extender",
+        "rating": 4,
+        "price": 26.99,
+        "image": "wifiextender.png"
+      },
+      {
+        "id": 5,
+        "name": "Logitech MK270 Wireless keyboard and mouse combo",
+        "rating": 4.5,
+        "price": 29.99,
+        "image": "keyboard.png"
+      },
+      {
+        "id": 6,
+        "name": "SanDisk 128GB Extreme microSXC UHS-I Memory Card with Adapter",
+        "rating": 5,
+        "price": 21.99,
+        "image": "microsd.png"
+      },
+      {
+        "id": 7,
+        "name": "H390 Wired headphones, Stereo headphones with Noise-Cancelling microphone",
+        "rating": 4.5,
+        "price": 219.99,
+        "image": "headphones.png"
+      },
+      {
+        "id": 8,
+        "name": "Acer Aspire 5 A515-46-R14K Slim Laptop",
+        "rating": 4.5,
+        "price": 367.00,
+        "image": "laptop.png"
+      },
+      {
+        "id": 9,
+        "name": "Logitech C920X HD Pro Webcam",
+        "rating": 4.5,
+        "price": 109.00,
+        "image": "nevergonnagiveyouup.png"
+      }
+
+    ]
+  }
