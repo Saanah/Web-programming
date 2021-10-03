@@ -5,7 +5,7 @@ const valikko = {marginRight: "30px"};
 export default function HeaderTopics() {
     return (
         <div style = {{backgroundColor: 'white'}}>
-        <div className = 'HeaderTopics'>  {/* Style from App.css*/}
+        <div className = 'HeaderTopics'>                {/* Style from App.css*/}
         <p style={valikko}>Etusivu</p>
         <p style={valikko}>HS Visio</p>
         <p style={valikko}>Luetuimmat</p>

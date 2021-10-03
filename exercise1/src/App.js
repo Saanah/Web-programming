@@ -34,7 +34,7 @@ function App() {
       <PopularNews topic = "Kuolleet" body = "Toimittaja Aarno Laitinen on kuollut"/>
       <PopularNews topic = "Historia" body = "Ensimmäiset luolamaalaukset saattoivat olla neandertalilaisten tekemiä"/>
       <PopularNews topic = "Kuluttaja" body = "Markkinoille ilmeistyivät kaiken kestävät sukkahousut - näin HS:n testeissä kävi"/>
-      <PopularNews topic = "Yhteiskunta" body = "Uutisten numerointi suosituimpien mukaan on katsottu epäsopivaksi, tästä edes
+      <PopularNews topic = "Yhteiskunta" body = "Uutisten numerointi suosituimpien mukaan on katsottu epäsopivaksi, tästsedes
       kaikki uutiset ovat samanarvoisia"/>
       <PopularNews topic = "Juhla" body = "Kauhukuukausi on melkein täällä - katso hurjan hirmuiset Halloween koristeluvinkit"/>
       </div>
