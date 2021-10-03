@@ -4,7 +4,6 @@ import cx from 'classnames'
 
 export default function Header(props) {
 
-    //const {selectCategory} = props.selectCategory;
     return (
         <div className = {styles.header}>
             <div style = {{marginLeft: '20px', fontFamily: 'sans-serif', fontSize: '28px'}}>
@@ -19,7 +18,8 @@ export default function Header(props) {
                 <option value = "computers">Computers</option>
                 <option value = "arts">Arts</option>
             </select>
-            <input className = {styles.searchbar} type="text" placeholder="Search..."/>
+            <input className = {styles.searchbar} type="text" placeholder="Search..."
+            onChange = {props.onSearchChange} value = {props.itemSearchString}/> {/*Search bar, takes a function and a string as props*/}
             </div>
         </div>
     )
